@@ -2,6 +2,7 @@
 - An ordinary college student, from China.
 - Major in Data Science but know little about it.
 - Keen on programming language learning, but having superficial knowledge of each of them.
+
 ![LazuliKao's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazuliKao&card_width=495&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazuliKao&card_width=445&layout=compact&theme=dracula)
 
